@@ -418,6 +418,7 @@ section {
 
     .image-box {
         background-color: black;
+        background-repeat: no-repeat;
         height: 300px;
         width: 300px;
     }
